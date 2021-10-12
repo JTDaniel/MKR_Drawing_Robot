@@ -1,1 +1,6 @@
+https://blog.hipolabs.com/chalkbot-77a312921dd0
+// wall drawing robot run by string and steppers
+
+https://www.instructables.com/XY-Plotter-Drawing-Robot-Arduino-Polargraph/
+// belt driven stepper drawing robot
 
