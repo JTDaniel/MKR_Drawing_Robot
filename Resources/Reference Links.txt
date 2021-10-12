@@ -4,3 +4,5 @@ https://blog.hipolabs.com/chalkbot-77a312921dd0
 https://www.instructables.com/XY-Plotter-Drawing-Robot-Arduino-Polargraph/
 // belt driven stepper drawing robot
 
+https://www.instructables.com/OSTR/
+//Driving robot, draws and uses minimal parts.
