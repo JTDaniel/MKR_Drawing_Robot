@@ -1,5 +1,9 @@
 https://blog.hipolabs.com/chalkbot-77a312921dd0
+
+https://github.com/hipo/chalkbot
+
 // wall drawing robot run by string and steppers
+// Hyperlink two, directs towards the projects GitHub Repo.  They created a python command that ocnverted an SVG into coordinates and sends motor signals over serial to an Arduino.
 
 https://www.instructables.com/XY-Plotter-Drawing-Robot-Arduino-Polargraph/
 // belt driven stepper drawing robot
